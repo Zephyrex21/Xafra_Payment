@@ -1,20 +1,12 @@
-# XafraPay
+**Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
 
-XafraPay is a modern payment gateway platform built to provide fast, reliable, and secure online payment processing. Whether you're a startup or an established business, XafraPay offers seamless integration to help you accept payments effortlessly.
-
-## Features
-
-- Secure payment processing with encryption
-- Multiple payment method support (cards, wallets, net banking)
-- Easy API integration with detailed documentation
-- Real-time transaction monitoring and reporting
-- Responsive and user-friendly dashboard
-
-## Getting Started
-
-### Installation
-
-Clone the repository:
+**Step 2:** To run:
 
 ```bash
-git clone https://github.com/yourusername/XafraPay.git
+npm install
+npm run start
+```
+
+**Step 3:** Goto [http://localhost:5173](http://localhost:5173)
+
+Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
