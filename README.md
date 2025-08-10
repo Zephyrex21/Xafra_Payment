@@ -69,7 +69,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 👩🏻‍💻 Developer
-Made with ❤️ by Saurabh Raj Shekhar
+Made with ❤️  by Saurabh Raj Shekhar
 
 ---
 
