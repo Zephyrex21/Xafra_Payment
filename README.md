@@ -1,13 +1,13 @@
 # 🌐 XafraPay
 
-**XafraPay** is a modern, secure, and user-friendly payment gateway website built with React and Tailwind CSS. It is designed to simplify online transactions by providing a sleek interface, smooth performance, and easy navigation.
+**XafraPay** is a modern, secure, and user-friendly payment gateway website built with Tailwind CSS. It is designed to simplify online transactions by providing a sleek interface, smooth performance, and easy navigation.
 
 ---
 
 ## 🚀 Features
 
 - Clean and responsive UI with Tailwind CSS  
-- Fast and smooth user experience with React  
+- Fast and smooth user experience 
 - Secure payment processing workflow (frontend simulation)  
 - Mobile-friendly design for seamless transactions on any device  
 - Easy to customize and extend for various payment needs
