@@ -28,3 +28,22 @@ To run the project locally:
 1. Clone the repository  
 ```bash
 git clone https://github.com/inferno2136/XafraPay.git
+
+
+Technologies Used
+React
+
+Tailwind CSS
+
+JavaScript (ES6+)
+
+HTML5 & CSS3
+
+Contribution
+Contributions are welcome! Feel free to open issues or submit pull requests to improve XafraPay.
+
+License
+This project is licensed under the MIT License.
+
+Developer
+Made with ❤️ by Your Name
