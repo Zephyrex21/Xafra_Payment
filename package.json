@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tailwindcss -i ./main.css -o ./dist/output.css --minify"
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "vite"
   },
