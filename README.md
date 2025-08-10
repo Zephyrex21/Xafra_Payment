@@ -1,12 +1,30 @@
-**Step 1:** [Download]([https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip](https://codeload.github.com/inferno2136/XafraPay/zip/refs/heads/main)) this repo as a zip
+# XafraPay
 
-**Step 2:** To run:
+**XafraPay** is a modern, secure, and user-friendly payment gateway website built with React and Tailwind CSS. It is designed to simplify online transactions by providing a sleek interface, smooth performance, and easy navigation.
 
+---
+
+## Features
+
+- Clean and responsive UI with Tailwind CSS  
+- Fast and smooth user experience with React  
+- Secure payment processing workflow (frontend simulation)  
+- Mobile-friendly design for seamless transactions on any device  
+- Easy to customize and extend for various payment needs
+
+---
+
+## Demo
+
+You can check the live demo of XafraPay here:  
+[Netlify Link](https://xafrapay.netlify.app/)
+
+---
+
+## Installation and Setup
+
+To run the project locally:
+
+1. Clone the repository  
 ```bash
-npm install
-npm run start
-```
-
-**Step 3:** Goto [http://localhost:5173](http://localhost:5173)
-
-Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
+git clone https://github.com/inferno2136/XafraPay.git
