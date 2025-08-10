@@ -1,10 +1,10 @@
-# XafraPay
+# 🌐 XafraPay
 
 **XafraPay** is a modern, secure, and user-friendly payment gateway website built with React and Tailwind CSS. It is designed to simplify online transactions by providing a sleek interface, smooth performance, and easy navigation.
 
 ---
 
-## Features
+## 🚀 Features
 
 - Clean and responsive UI with Tailwind CSS  
 - Fast and smooth user experience with React  
@@ -14,14 +14,14 @@
 
 ---
 
-## Demo
+## 📍 Demo
 
 You can check the live demo of XafraPay here:  
 [Netlify Link](https://xafrapay.netlify.app/)
 
 ---
 
-## Installation and Setup
+## 💁🏻‍♂️ Installation and Setup
 
 To run the project locally:
 
@@ -51,7 +51,7 @@ Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/usin
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 - React
 - Tailwind CSS
 - JavaScript (ES6+)
@@ -59,15 +59,25 @@ Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/usin
 
 ---
 
-## Contribution
+## 🫙 Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to improve XafraPay.
 
 ---
 
-## License
+## 🪪 License
 This project is licensed under the MIT License.
 
 ---
 
-## Developer
+## 👩🏻‍💻 Developer
 Made with ❤️ by Saurabh Raj Shekhar
+
+---
+
+## 📬 Contact
+- **Name:** Saurabh Raj Shekhar  
+- **Email:** shekharsaurabhraj@gmail.com 
+- **Instagram:** [@_ek.shayarr](https://instagram.com/_ek.shayarr) | [@_faded.trails](https://instagram.com/_faded.trails)  
+- **GitHub:** [inferno](https://github.com/inferno2136)
+
+---
