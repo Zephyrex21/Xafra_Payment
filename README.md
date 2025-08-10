@@ -47,8 +47,7 @@ npm start
 
 5. Open http://localhost:5173 to view it in your browser.
 
-
-
+---
 
 ## Technologies Used
 - React
@@ -56,11 +55,17 @@ npm start
 - JavaScript (ES6+)
 - HTML5 & CSS3
 
+---
+
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to improve XafraPay.
 
+---
+
 ## License
 This project is licensed under the MIT License.
+
+---
 
 ## Developer
 Made with ❤️ by Saurabh Raj Shekhar
