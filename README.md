@@ -52,7 +52,6 @@ Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/usin
 ---
 
 ## 🛠️ Technologies Used
-- React
 - Tailwind CSS
 - JavaScript (ES6+)
 - HTML5 & CSS3
