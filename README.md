@@ -30,20 +30,17 @@ To run the project locally:
 git clone https://github.com/inferno2136/XafraPay.git
 ```
 
-Technologies Used
-React
+## Technologies Used
+- React
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 & CSS3
 
-Tailwind CSS
-
-JavaScript (ES6+)
-
-HTML5 & CSS3
-
-Contribution
+## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to improve XafraPay.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Developer
-Made with ❤️ by Your Name
+## Developer
+Made with ❤️ by Saurabh Raj Shekhar
