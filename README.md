@@ -30,6 +30,26 @@ To run the project locally:
 git clone https://github.com/inferno2136/XafraPay.git
 ```
 
+2.Navigate to the project folder
+```bash
+cd XafraPay
+```
+
+3. Install dependencies
+```bash
+npm install
+```
+
+4. Start the development server
+```bash
+npm start
+```
+
+5. Open http://localhost:5173 to view it in your browser.
+
+
+
+
 ## Technologies Used
 - React
 - Tailwind CSS
