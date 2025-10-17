@@ -76,7 +76,7 @@ Made with ❤️  by Saurabh Raj Shekhar
 ## 📬 Contact
 - **Name:** Saurabh Raj Shekhar  
 - **Email:** shekharsaurabhraj@gmail.com 
-- **Instagram:** [@_ek.shayarr](https://instagram.com/_ek.shayarr) | [@_faded.trails](https://instagram.com/_faded.trails)  
-- **GitHub:** [inferno](https://github.com/inferno2136)
+- **Instagram:** [@_ek.shayarr](https://www.instagram.com/_for.youuh/) 
+- **GitHub:** [inferno](https://github.com/Zephyrex21)
 
 ---
